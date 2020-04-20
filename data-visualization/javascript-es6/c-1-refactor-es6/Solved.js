@@ -1,6 +1,6 @@
 // In this challenge, you need to refactor the code in several ways: 
 // - Where appropriate, refactor functions to arrow functions
-// - Refactor all instances of `var` to either `const` or `let
+// - Refactor all instances of `var` to either `const` or `let, where appropriate
 // - All string concatenations should use th `${variable}` syntax
 
 
