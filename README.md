@@ -4,9 +4,7 @@ Welcome to the Career Services Technical Interviewing Curriculum! This repositor
 
 ---
 
-## Overview
-For information regarding onboarding and training, consult: 
-Alec Down (adown@bootcampspot.com)
+
 
 ## Content
 * [Full-stack Web Development](./fullstack-web-dev)
